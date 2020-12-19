@@ -150,7 +150,7 @@
 
 .giphy-container {
   background: #000;
-  height: 100vh;
+  /* height: 100vh; */
 }
 .giphy-header {
   display: flex;
